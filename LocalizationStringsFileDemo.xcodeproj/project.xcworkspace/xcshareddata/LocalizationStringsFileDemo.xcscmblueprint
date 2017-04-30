@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "ADA34B19498AC48C7185DFBC57B2A5892D5F8CDE",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5210F21B8E5E4ED0844D470D7561650484D4BD70" : 9223372036854775807,
+    "ADA34B19498AC48C7185DFBC57B2A5892D5F8CDE" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D3E90298-40E2-40E9-8794-6D3E288923A7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5210F21B8E5E4ED0844D470D7561650484D4BD70" : "..",
+    "ADA34B19498AC48C7185DFBC57B2A5892D5F8CDE" : "LocalizationStringsFileDemo\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "LocalizationStringsFileDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "LocalizationStringsFileDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:CodingLifestyleProjects\/Sudoku.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5210F21B8E5E4ED0844D470D7561650484D4BD70"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:CodingLifestyleProjects\/LocalizationStringsFileDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "ADA34B19498AC48C7185DFBC57B2A5892D5F8CDE"
+    }
+  ]
+}
